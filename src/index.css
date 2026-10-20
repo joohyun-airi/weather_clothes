@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  background: #f6f7fb;
+}
+body {
+  @apply font-sans text-slate-900 antialiased;
+  word-break: keep-all;
+}
+select option {
+  color: #0f172a;
+}

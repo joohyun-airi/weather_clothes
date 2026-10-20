@@ -1,0 +1,2980 @@
+[
+  {
+    "id": "top-sleeveless-white",
+    "name": "화이트 민소매 탑",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 27,
+    "maxTemp": 40,
+    "styleTags": [
+      "캐주얼",
+      "트렌디"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sleeveless",
+    "color": "#f4f2ec",
+    "imageQuery": "white sleeveless top",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-sleeveless-gray",
+    "name": "그레이 나시 티셔츠",
+    "category": "top",
+    "gender": "male",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 27,
+    "maxTemp": 40,
+    "styleTags": [
+      "캐주얼",
+      "스트릿"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sleeveless",
+    "color": "#9aa0a6",
+    "imageQuery": "gray tank top men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-linen-sleeveless",
+    "name": "린넨 민소매 블라우스",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "40s",
+      "50s"
+    ],
+    "minTemp": 27,
+    "maxTemp": 40,
+    "styleTags": [
+      "편안함",
+      "고급 소재"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sleeveless",
+    "color": "#e9dfcc",
+    "imageQuery": "linen sleeveless blouse",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-tee-oversize-black",
+    "name": "오버핏 반팔 티셔츠",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 40,
+    "styleTags": [
+      "캐주얼",
+      "오버핏",
+      "스트릿"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "tshirt",
+    "color": "#2a2a2c",
+    "imageQuery": "oversized black t-shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-tee-white",
+    "name": "화이트 크루넥 반팔 티",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 40,
+    "styleTags": [
+      "미니멀",
+      "캐주얼"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "tshirt",
+    "color": "#fafafa",
+    "imageQuery": "white crew neck t-shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-tee-graphic",
+    "name": "그래픽 반팔 티",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 40,
+    "styleTags": [
+      "스트릿",
+      "트렌디"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "tshirt",
+    "color": "#e0b23a",
+    "imageQuery": "graphic t-shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-tee-stripe",
+    "name": "스트라이프 반팔 티",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 22,
+    "maxTemp": 32,
+    "styleTags": [
+      "캐주얼",
+      "미니멀"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "tshirt",
+    "color": "#3b5b92",
+    "imageQuery": "striped t-shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-tee-crop",
+    "name": "크롭 반팔 티",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "트렌디",
+      "캐주얼"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "tshirt",
+    "color": "#f09a9a",
+    "imageQuery": "cropped t-shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-linen-shirt-short",
+    "name": "린넨 반팔 셔츠",
+    "category": "top",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 40,
+    "styleTags": [
+      "세미포멀",
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shirtShort",
+    "color": "#e8e0cf",
+    "imageQuery": "linen short sleeve shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-pique-polo",
+    "name": "네이비 피케 폴로 셔츠",
+    "category": "top",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 40,
+    "styleTags": [
+      "클래식",
+      "단정한 핏"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "polo",
+    "color": "#1f2a44",
+    "imageQuery": "navy pique polo shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-blouse-short",
+    "name": "쉬폰 반팔 블라우스",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 35,
+    "styleTags": [
+      "세미포멀",
+      "단정한 핏"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "blouse",
+    "color": "#f3e9e4",
+    "imageQuery": "chiffon short sleeve blouse",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-linen-blouse",
+    "name": "린넨 반팔 블라우스",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "40s",
+      "50s"
+    ],
+    "minTemp": 24,
+    "maxTemp": 40,
+    "styleTags": [
+      "편안함",
+      "고급 소재"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "blouse",
+    "color": "#e9dcc6",
+    "imageQuery": "linen blouse",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-linen-shirt",
+    "name": "린넨 긴팔 셔츠",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 20,
+    "maxTemp": 28,
+    "styleTags": [
+      "미니멀",
+      "편안함",
+      "고급 소재"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shirt",
+    "color": "#dfe7ee",
+    "imageQuery": "linen long sleeve shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-oxford-shirt",
+    "name": "화이트 옥스포드 셔츠",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 17,
+    "maxTemp": 27,
+    "styleTags": [
+      "세미포멀",
+      "미니멀",
+      "단정한 핏"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shirt",
+    "color": "#f7f7f7",
+    "imageQuery": "white oxford shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-thin-longsleeve",
+    "name": "얇은 긴팔 티",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 19,
+    "maxTemp": 24,
+    "styleTags": [
+      "캐주얼",
+      "미니멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "longsleeve",
+    "color": "#d9d4cc",
+    "imageQuery": "thin long sleeve t-shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-waffle-longsleeve",
+    "name": "와플 긴팔 티",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 17,
+    "maxTemp": 22,
+    "styleTags": [
+      "캐주얼",
+      "트렌디"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "longsleeve",
+    "color": "#cbb79a",
+    "imageQuery": "waffle knit long sleeve",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-henley",
+    "name": "헨리넥 긴팔 티",
+    "category": "top",
+    "gender": "male",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 18,
+    "maxTemp": 24,
+    "styleTags": [
+      "캐주얼",
+      "편안함"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "longsleeve",
+    "color": "#8a6e52",
+    "imageQuery": "henley shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-blouse-ribbon",
+    "name": "리본 블라우스",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 17,
+    "maxTemp": 24,
+    "styleTags": [
+      "세미포멀",
+      "트렌디"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "blouse",
+    "color": "#f1d6c8",
+    "imageQuery": "ribbon blouse",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-stripe-longsleeve",
+    "name": "스트라이프 긴팔 티",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 17,
+    "maxTemp": 24,
+    "styleTags": [
+      "캐주얼",
+      "미니멀"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "longsleeve",
+    "color": "#4a6fa5",
+    "imageQuery": "breton stripe top",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-silk-blouse",
+    "name": "실크 블라우스",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "40s",
+      "50s"
+    ],
+    "minTemp": 17,
+    "maxTemp": 24,
+    "styleTags": [
+      "고급 소재",
+      "클래식",
+      "단정한 핏"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "blouse",
+    "color": "#efe6d8",
+    "imageQuery": "silk blouse",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-check-shirt",
+    "name": "체크 셔츠",
+    "category": "top",
+    "gender": "male",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 15,
+    "maxTemp": 23,
+    "styleTags": [
+      "캐주얼",
+      "클래식"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shirt",
+    "color": "#a33b3b",
+    "imageQuery": "flannel check shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-sweatshirt-gray",
+    "name": "그레이 맨투맨",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 12,
+    "maxTemp": 19,
+    "styleTags": [
+      "캐주얼",
+      "스트릿",
+      "오버핏"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sweatshirt",
+    "color": "#9ea3a8",
+    "imageQuery": "gray sweatshirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-hoodie-gray",
+    "name": "그레이 후드 맨투맨",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 12,
+    "maxTemp": 19,
+    "styleTags": [
+      "캐주얼",
+      "스트릿"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "hoodie",
+    "color": "#8e9399",
+    "imageQuery": "gray hoodie",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-sweatshirt-navy",
+    "name": "네이비 맨투맨",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 12,
+    "maxTemp": 19,
+    "styleTags": [
+      "캐주얼",
+      "편안함"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sweatshirt",
+    "color": "#2d3b5c",
+    "imageQuery": "navy sweatshirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-knit-thin-navy",
+    "name": "네이비 얇은 니트",
+    "category": "top",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 14,
+    "maxTemp": 21,
+    "styleTags": [
+      "미니멀",
+      "세미포멀",
+      "니트"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "knit",
+    "color": "#26334f",
+    "imageQuery": "navy fine knit sweater",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-knit-vneck-ivory",
+    "name": "아이보리 브이넥 니트",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 12,
+    "maxTemp": 20,
+    "styleTags": [
+      "단정한 핏",
+      "니트",
+      "클래식"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "knit",
+    "color": "#f0ead9",
+    "imageQuery": "ivory v-neck sweater",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-knit-crew-beige",
+    "name": "베이지 크루넥 니트",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 9,
+    "maxTemp": 19,
+    "styleTags": [
+      "미니멀",
+      "니트"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "knit",
+    "color": "#d7c3a3",
+    "imageQuery": "beige crew neck knit sweater",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-turtleneck-black",
+    "name": "블랙 터틀넥 니트",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 3,
+    "maxTemp": 14,
+    "styleTags": [
+      "미니멀",
+      "세미포멀",
+      "니트"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "turtleneck",
+    "color": "#1d1d1f",
+    "imageQuery": "black turtleneck",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-cable-knit",
+    "name": "두꺼운 케이블 니트",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 0,
+    "maxTemp": 11,
+    "styleTags": [
+      "클래식",
+      "니트",
+      "편안함"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "knit",
+    "color": "#c9ae86",
+    "imageQuery": "chunky cable knit sweater",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-flannel-lined",
+    "name": "기모 체크 셔츠",
+    "category": "top",
+    "gender": "male",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -5,
+    "maxTemp": 12,
+    "styleTags": [
+      "캐주얼",
+      "클래식"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shirt",
+    "color": "#7a2e2e",
+    "imageQuery": "fleece lined flannel shirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-fleece-sweatshirt",
+    "name": "기모 맨투맨",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 8,
+    "styleTags": [
+      "캐주얼",
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sweatshirt",
+    "color": "#6b6f75",
+    "imageQuery": "fleece lined sweatshirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-fleece-hoodie",
+    "name": "기모 후드티",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 8,
+    "styleTags": [
+      "스트릿",
+      "오버핏"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "hoodie",
+    "color": "#5f6b4e",
+    "imageQuery": "fleece hoodie khaki",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-cashmere-knit",
+    "name": "캐시미어 니트",
+    "category": "top",
+    "gender": "unisex",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 10,
+    "styleTags": [
+      "고급 소재",
+      "클래식",
+      "니트"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "knit",
+    "color": "#b49a7a",
+    "imageQuery": "cashmere sweater",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "top-wool-turtleneck",
+    "name": "크림 울 터틀넥",
+    "category": "top",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 10,
+    "styleTags": [
+      "미니멀",
+      "니트",
+      "고급 소재"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "turtleneck",
+    "color": "#efe7d6",
+    "imageQuery": "cream wool turtleneck",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-shorts-cotton",
+    "name": "면 반바지",
+    "category": "bottom",
+    "gender": "male",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "캐주얼",
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shorts",
+    "color": "#c8b89a",
+    "imageQuery": "cotton shorts men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-shorts-slacks",
+    "name": "슬랙스 반바지",
+    "category": "bottom",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "미니멀",
+      "세미포멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shorts",
+    "color": "#5a5a5e",
+    "imageQuery": "tailored shorts",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-shorts-denim",
+    "name": "데님 반바지",
+    "category": "bottom",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "캐주얼",
+      "트렌디"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shorts",
+    "color": "#7da0c8",
+    "imageQuery": "denim shorts women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-skirt-tennis",
+    "name": "테니스 스커트",
+    "category": "bottom",
+    "gender": "female",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 35,
+    "styleTags": [
+      "트렌디",
+      "캐주얼"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "skirt",
+    "color": "#f2f2f2",
+    "imageQuery": "pleated tennis skirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-linen-pants",
+    "name": "린넨 와이드 팬츠",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 40,
+    "styleTags": [
+      "편안함",
+      "고급 소재",
+      "미니멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#e4dccb",
+    "imageQuery": "linen wide pants",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-skirt-linen",
+    "name": "린넨 롱스커트",
+    "category": "bottom",
+    "gender": "female",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 40,
+    "styleTags": [
+      "편안함",
+      "미니멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "skirt",
+    "color": "#efe8da",
+    "imageQuery": "linen maxi skirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-chino",
+    "name": "베이지 면바지",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 15,
+    "maxTemp": 30,
+    "styleTags": [
+      "세미포멀",
+      "단정한 핏",
+      "클래식"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#cdb48c",
+    "imageQuery": "beige chino pants",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-skirt-pleats",
+    "name": "플리츠 미디스커트",
+    "category": "bottom",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 15,
+    "maxTemp": 30,
+    "styleTags": [
+      "트렌디",
+      "세미포멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "skirt",
+    "color": "#b9b2a8",
+    "imageQuery": "pleated midi skirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-banding-wide",
+    "name": "밴딩 와이드 팬츠",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "40s",
+      "50s"
+    ],
+    "minTemp": 9,
+    "maxTemp": 26,
+    "styleTags": [
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#6e6a63",
+    "imageQuery": "elastic waist wide pants",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-slacks-wide",
+    "name": "와이드 슬랙스",
+    "category": "bottom",
+    "gender": "female",
+    "ages": [
+      "30s",
+      "40s"
+    ],
+    "minTemp": 9,
+    "maxTemp": 25,
+    "styleTags": [
+      "세미포멀",
+      "미니멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#3a3a3c",
+    "imageQuery": "wide leg slacks women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-slacks-black",
+    "name": "블랙 슬랙스",
+    "category": "bottom",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 25,
+    "styleTags": [
+      "세미포멀",
+      "단정한 핏",
+      "미니멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#232325",
+    "imageQuery": "black slacks men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-cargo",
+    "name": "카고 팬츠",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": 9,
+    "maxTemp": 24,
+    "styleTags": [
+      "스트릿",
+      "오버핏"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#6b6a4c",
+    "imageQuery": "cargo pants",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-wide-jeans",
+    "name": "와이드 데님",
+    "category": "bottom",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 24,
+    "styleTags": [
+      "트렌디",
+      "오버핏",
+      "스트릿"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "jeans",
+    "color": "#6d8fbf",
+    "imageQuery": "wide leg jeans",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-jeans-light",
+    "name": "연청 스트레이트 청바지",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 22,
+    "styleTags": [
+      "캐주얼"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "jeans",
+    "color": "#8fb1d6",
+    "imageQuery": "light wash straight jeans",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-jogger",
+    "name": "조거 팬츠",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 22,
+    "styleTags": [
+      "캐주얼",
+      "편안함",
+      "스트릿"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#4b4f55",
+    "imageQuery": "jogger pants",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-jeans-dark",
+    "name": "생지 데님",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 0,
+    "maxTemp": 20,
+    "styleTags": [
+      "미니멀",
+      "캐주얼",
+      "단정한 핏"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "jeans",
+    "color": "#2e3f63",
+    "imageQuery": "raw denim jeans",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-skirt-wool-check",
+    "name": "울 체크 스커트",
+    "category": "bottom",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 0,
+    "maxTemp": 14,
+    "styleTags": [
+      "클래식",
+      "트렌디"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "skirt",
+    "color": "#7b4b3a",
+    "imageQuery": "wool check skirt",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-corduroy",
+    "name": "코듀로이 팬츠",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -5,
+    "maxTemp": 14,
+    "styleTags": [
+      "클래식",
+      "캐주얼"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#8b5e3c",
+    "imageQuery": "corduroy pants",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-wool-slacks",
+    "name": "울 슬랙스",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -10,
+    "maxTemp": 12,
+    "styleTags": [
+      "클래식",
+      "고급 소재",
+      "단정한 핏"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#4a4a4f",
+    "imageQuery": "wool trousers",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-wool-skirt-long",
+    "name": "울 롱스커트 + 기모 스타킹",
+    "category": "bottom",
+    "gender": "female",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -10,
+    "maxTemp": 12,
+    "styleTags": [
+      "클래식",
+      "고급 소재"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "skirt",
+    "color": "#3b3b40",
+    "imageQuery": "wool long skirt tights",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-fleece-jeans",
+    "name": "기모 청바지",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 8,
+    "styleTags": [
+      "캐주얼",
+      "편안함"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "jeans",
+    "color": "#3d5277",
+    "imageQuery": "fleece lined jeans",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "bottom-fleece-jogger",
+    "name": "기모 조거 팬츠",
+    "category": "bottom",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 6,
+    "styleTags": [
+      "스트릿",
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "pants",
+    "color": "#3c3f44",
+    "imageQuery": "fleece jogger pants",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "dress-floral-linen",
+    "name": "플로럴 린넨 원피스",
+    "category": "dress",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "트렌디"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "dress",
+    "color": "#e7a7a0",
+    "imageQuery": "floral linen dress",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "dress-sleeveless-black",
+    "name": "블랙 민소매 원피스",
+    "category": "dress",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "미니멀",
+      "세미포멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "dress",
+    "color": "#262628",
+    "imageQuery": "black sleeveless dress",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "dress-tiered",
+    "name": "티어드 롱 원피스",
+    "category": "dress",
+    "gender": "female",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": 20,
+    "maxTemp": 30,
+    "styleTags": [
+      "트렌디",
+      "캐주얼"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "dress",
+    "color": "#e9d3b3",
+    "imageQuery": "tiered maxi dress",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "dress-shirt",
+    "name": "셔츠 원피스",
+    "category": "dress",
+    "gender": "female",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 18,
+    "maxTemp": 27,
+    "styleTags": [
+      "세미포멀",
+      "단정한 핏",
+      "미니멀"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "dress",
+    "color": "#a9bcd0",
+    "imageQuery": "shirt dress",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "dress-knit",
+    "name": "니트 원피스",
+    "category": "dress",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 16,
+    "styleTags": [
+      "니트",
+      "미니멀",
+      "클래식"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "dress",
+    "color": "#a88c6d",
+    "imageQuery": "knit dress",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "dress-wool",
+    "name": "울 롱 원피스",
+    "category": "dress",
+    "gender": "female",
+    "ages": [
+      "40s",
+      "50s"
+    ],
+    "minTemp": -5,
+    "maxTemp": 10,
+    "styleTags": [
+      "클래식",
+      "고급 소재",
+      "단정한 핏"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "dress",
+    "color": "#3f3a3a",
+    "imageQuery": "wool midi dress",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-cardigan-thin",
+    "name": "얇은 린넨 가디건",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 20,
+    "maxTemp": 26,
+    "styleTags": [
+      "미니멀",
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "cardigan",
+    "color": "#ece4d4",
+    "imageQuery": "thin linen cardigan",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-rain-jacket",
+    "name": "방수 레인 재킷",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 10,
+    "maxTemp": 25,
+    "styleTags": [
+      "캐주얼",
+      "레인웨어"
+    ],
+    "colorTone": "point",
+    "waterproof": true,
+    "windproof": true,
+    "shape": "windbreaker",
+    "color": "#e3b23c",
+    "imageQuery": "yellow rain jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-overshirt",
+    "name": "셔츠 재킷",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 17,
+    "maxTemp": 23,
+    "styleTags": [
+      "캐주얼",
+      "스트릿",
+      "오버핏"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "shirt",
+    "color": "#7a6a52",
+    "imageQuery": "overshirt shacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-cardigan-navy",
+    "name": "네이비 카디건",
+    "category": "outer",
+    "gender": "female",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 15,
+    "maxTemp": 22,
+    "styleTags": [
+      "클래식"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "cardigan",
+    "color": "#2a3654",
+    "imageQuery": "navy cardigan women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-cardigan-gray",
+    "name": "그레이 니트 가디건",
+    "category": "outer",
+    "gender": "male",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 15,
+    "maxTemp": 22,
+    "styleTags": [
+      "미니멀",
+      "니트",
+      "클래식"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "cardigan",
+    "color": "#8d9196",
+    "imageQuery": "gray cardigan men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-cardigan-cream",
+    "name": "크림 니트 가디건",
+    "category": "outer",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 15,
+    "maxTemp": 22,
+    "styleTags": [
+      "트렌디",
+      "니트",
+      "캐주얼"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "cardigan",
+    "color": "#f1e6d0",
+    "imageQuery": "cream knit cardigan",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-denim-jacket",
+    "name": "데님 재킷",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 14,
+    "maxTemp": 22,
+    "styleTags": [
+      "캐주얼",
+      "스트릿"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "jacket",
+    "color": "#5f84b4",
+    "imageQuery": "denim jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-blazer-navy",
+    "name": "네이비 블레이저",
+    "category": "outer",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 12,
+    "maxTemp": 22,
+    "styleTags": [
+      "세미포멀",
+      "클래식",
+      "단정한 핏"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "jacket",
+    "color": "#232f4b",
+    "imageQuery": "navy blazer men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-blazer-beige",
+    "name": "베이지 테일러드 재킷",
+    "category": "outer",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 12,
+    "maxTemp": 22,
+    "styleTags": [
+      "세미포멀",
+      "미니멀",
+      "단정한 핏"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "jacket",
+    "color": "#d4bf9e",
+    "imageQuery": "beige tailored blazer women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-anorak",
+    "name": "아노락",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": 13,
+    "maxTemp": 20,
+    "styleTags": [
+      "스트릿",
+      "트렌디"
+    ],
+    "colorTone": "point",
+    "waterproof": true,
+    "windproof": true,
+    "shape": "windbreaker",
+    "color": "#3a6b4c",
+    "imageQuery": "anorak jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-windbreaker",
+    "name": "나일론 바람막이",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 12,
+    "maxTemp": 19,
+    "styleTags": [
+      "스트릿"
+    ],
+    "colorTone": "cool",
+    "waterproof": true,
+    "windproof": true,
+    "shape": "windbreaker",
+    "color": "#3e6e8e",
+    "imageQuery": "nylon windbreaker",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-field-jacket",
+    "name": "야상 필드 재킷",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 9,
+    "maxTemp": 16,
+    "styleTags": [
+      "캐주얼",
+      "클래식"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "jacket",
+    "color": "#5e6447",
+    "imageQuery": "field jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-trench-beige",
+    "name": "베이지 트렌치코트",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 9,
+    "maxTemp": 16,
+    "styleTags": [
+      "클래식"
+    ],
+    "colorTone": "warm",
+    "waterproof": true,
+    "windproof": true,
+    "shape": "trench",
+    "color": "#c8ad84",
+    "imageQuery": "beige trench coat",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-fleece",
+    "name": "플리스 재킷",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 13,
+    "styleTags": [
+      "캐주얼",
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "jacket",
+    "color": "#e8e3d8",
+    "imageQuery": "fleece jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-wool-blouson",
+    "name": "울 블루종",
+    "category": "outer",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 14,
+    "styleTags": [
+      "클래식",
+      "단정한 핏"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "jacket",
+    "color": "#3e3a36",
+    "imageQuery": "wool blouson jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-leather-jacket",
+    "name": "블랙 가죽 재킷",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 12,
+    "styleTags": [
+      "스트릿",
+      "트렌디"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "jacket",
+    "color": "#1c1c1c",
+    "imageQuery": "black leather jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-quilted",
+    "name": "퀼팅 경량 패딩",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 3,
+    "maxTemp": 12,
+    "styleTags": [
+      "클래식",
+      "편안함"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "padding",
+    "color": "#3c4636",
+    "imageQuery": "quilted light down jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-wool-coat-camel",
+    "name": "카멜 울 코트",
+    "category": "outer",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 3,
+    "maxTemp": 10,
+    "styleTags": [
+      "클래식",
+      "고급 소재"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "coat",
+    "color": "#b8895a",
+    "imageQuery": "camel wool coat women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-wool-coat-charcoal",
+    "name": "차콜 싱글 울 코트",
+    "category": "outer",
+    "gender": "male",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 2,
+    "maxTemp": 10,
+    "styleTags": [
+      "미니멀",
+      "세미포멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "coat",
+    "color": "#46484c",
+    "imageQuery": "charcoal wool coat men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-cashmere-coat",
+    "name": "캐시미어 울 코트",
+    "category": "outer",
+    "gender": "male",
+    "ages": [
+      "40s",
+      "50s"
+    ],
+    "minTemp": 0,
+    "maxTemp": 8,
+    "styleTags": [
+      "클래식",
+      "고급 소재"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "coat",
+    "color": "#3a3a3d",
+    "imageQuery": "cashmere overcoat men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-duffle",
+    "name": "더플코트",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": -5,
+    "maxTemp": 6,
+    "styleTags": [
+      "캐주얼",
+      "트렌디"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "coat",
+    "color": "#8a6b4a",
+    "imageQuery": "duffle coat",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-heavy-coat",
+    "name": "핸드메이드 롱코트",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -10,
+    "maxTemp": 5,
+    "styleTags": [
+      "고급 소재",
+      "클래식",
+      "단정한 핏"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "coat",
+    "color": "#5b5650",
+    "imageQuery": "long wool coat",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-mustang",
+    "name": "무스탕",
+    "category": "outer",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": -10,
+    "maxTemp": 4,
+    "styleTags": [
+      "트렌디",
+      "고급 소재"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "coat",
+    "color": "#6e4a32",
+    "imageQuery": "shearling jacket women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-short-padding",
+    "name": "숏 패딩",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": -15,
+    "maxTemp": 4,
+    "styleTags": [
+      "스트릿"
+    ],
+    "colorTone": "neutral",
+    "waterproof": true,
+    "windproof": true,
+    "shape": "padding",
+    "color": "#222224",
+    "imageQuery": "short puffer jacket",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-long-padding",
+    "name": "롱 구스다운 패딩",
+    "category": "outer",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 2,
+    "styleTags": [
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": true,
+    "windproof": true,
+    "shape": "paddingLong",
+    "color": "#2b2b2e",
+    "imageQuery": "long goose down parka",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-hooded-long-padding",
+    "name": "아이보리 후드 롱패딩",
+    "category": "outer",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 0,
+    "styleTags": [
+      "편안함",
+      "트렌디"
+    ],
+    "colorTone": "neutral",
+    "waterproof": true,
+    "windproof": true,
+    "shape": "paddingLong",
+    "color": "#e9e6df",
+    "imageQuery": "ivory long puffer coat",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "outer-down-parka",
+    "name": "헤비 다운 파카",
+    "category": "outer",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": -5,
+    "styleTags": [
+      "클래식",
+      "고급 소재"
+    ],
+    "colorTone": "warm",
+    "waterproof": true,
+    "windproof": true,
+    "shape": "padding",
+    "color": "#34413a",
+    "imageQuery": "heavy down parka men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-sport-sandal",
+    "name": "스포츠 샌들",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "캐주얼",
+      "스트릿"
+    ],
+    "colorTone": "neutral",
+    "waterproof": true,
+    "windproof": false,
+    "shape": "sandals",
+    "color": "#333336",
+    "imageQuery": "sport sandals",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-leather-sandal",
+    "name": "레더 샌들",
+    "category": "shoes",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "클래식",
+      "편안함"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sandals",
+    "color": "#7a5232",
+    "imageQuery": "leather sandals men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-strap-sandal",
+    "name": "스트랩 샌들",
+    "category": "shoes",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 25,
+    "maxTemp": 40,
+    "styleTags": [
+      "트렌디",
+      "미니멀"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sandals",
+    "color": "#c9a27a",
+    "imageQuery": "strappy sandals women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-slip-on",
+    "name": "캔버스 슬립온",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 20,
+    "maxTemp": 40,
+    "styleTags": [
+      "편안함",
+      "미니멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sneakers",
+    "color": "#d8d3c8",
+    "imageQuery": "canvas slip-on",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-white-sneakers",
+    "name": "화이트 스니커즈",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 5,
+    "maxTemp": 30,
+    "styleTags": [
+      "캐주얼",
+      "미니멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sneakers",
+    "color": "#f5f5f5",
+    "imageQuery": "white sneakers",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-canvas",
+    "name": "레드 캔버스 스니커즈",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": 15,
+    "maxTemp": 30,
+    "styleTags": [
+      "캐주얼",
+      "트렌디"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sneakers",
+    "color": "#c94040",
+    "imageQuery": "red canvas sneakers",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-running",
+    "name": "러닝화",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 0,
+    "maxTemp": 30,
+    "styleTags": [
+      "편안함",
+      "캐주얼"
+    ],
+    "colorTone": "cool",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sneakers",
+    "color": "#8696a8",
+    "imageQuery": "running shoes",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-mule",
+    "name": "블로퍼",
+    "category": "shoes",
+    "gender": "female",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 17,
+    "maxTemp": 30,
+    "styleTags": [
+      "미니멀",
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "loafers",
+    "color": "#e8e0d0",
+    "imageQuery": "mule loafers women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-flat",
+    "name": "플랫슈즈",
+    "category": "shoes",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 15,
+    "maxTemp": 28,
+    "styleTags": [
+      "단정한 핏",
+      "클래식"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "flats",
+    "color": "#2b2b2b",
+    "imageQuery": "ballet flats",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-maryjane",
+    "name": "메리제인 슈즈",
+    "category": "shoes",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": 12,
+    "maxTemp": 26,
+    "styleTags": [
+      "트렌디",
+      "세미포멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "flats",
+    "color": "#3a2a24",
+    "imageQuery": "mary jane shoes",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-loafer",
+    "name": "가죽 로퍼",
+    "category": "shoes",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 9,
+    "maxTemp": 25,
+    "styleTags": [
+      "클래식",
+      "세미포멀"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "loafers",
+    "color": "#5a3a22",
+    "imageQuery": "leather loafers men",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-loafer-black",
+    "name": "블랙 로퍼",
+    "category": "shoes",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 9,
+    "maxTemp": 25,
+    "styleTags": [
+      "클래식",
+      "단정한 핏",
+      "세미포멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "loafers",
+    "color": "#1e1e1e",
+    "imageQuery": "black loafers women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-derby",
+    "name": "더비 슈즈",
+    "category": "shoes",
+    "gender": "male",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -5,
+    "maxTemp": 22,
+    "styleTags": [
+      "세미포멀",
+      "클래식",
+      "고급 소재"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "loafers",
+    "color": "#1f1a17",
+    "imageQuery": "derby shoes",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-rain-boots",
+    "name": "레인부츠",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 0,
+    "maxTemp": 25,
+    "styleTags": [
+      "레인웨어"
+    ],
+    "colorTone": "neutral",
+    "waterproof": true,
+    "windproof": false,
+    "shape": "boots",
+    "color": "#3b3b3b",
+    "imageQuery": "rain boots",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-chelsea",
+    "name": "첼시 부츠",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -5,
+    "maxTemp": 14,
+    "styleTags": [
+      "클래식",
+      "미니멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": true,
+    "windproof": false,
+    "shape": "boots",
+    "color": "#2a2420",
+    "imageQuery": "chelsea boots",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-ankle-boots",
+    "name": "앵클 부츠",
+    "category": "shoes",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 0,
+    "maxTemp": 14,
+    "styleTags": [
+      "트렌디",
+      "세미포멀"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "boots",
+    "color": "#3d3330",
+    "imageQuery": "ankle boots women",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-walker",
+    "name": "워커 부츠",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 10,
+    "styleTags": [
+      "스트릿"
+    ],
+    "colorTone": "warm",
+    "waterproof": true,
+    "windproof": false,
+    "shape": "boots",
+    "color": "#6b4a2e",
+    "imageQuery": "combat boots",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-winter-sneakers",
+    "name": "방한 운동화",
+    "category": "shoes",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 5,
+    "styleTags": [
+      "편안함"
+    ],
+    "colorTone": "neutral",
+    "waterproof": true,
+    "windproof": false,
+    "shape": "sneakers",
+    "color": "#4a4d52",
+    "imageQuery": "winter insulated sneakers",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "shoes-fur-boots",
+    "name": "양털 부츠",
+    "category": "shoes",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 4,
+    "styleTags": [
+      "편안함",
+      "트렌디"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "boots",
+    "color": "#c49a6c",
+    "imageQuery": "sheepskin boots",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-umbrella-long",
+    "name": "장우산",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 40,
+    "styleTags": [
+      "클래식"
+    ],
+    "colorTone": "neutral",
+    "waterproof": true,
+    "windproof": false,
+    "shape": "umbrella",
+    "color": "#2c3e50",
+    "imageQuery": "long umbrella",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-umbrella-compact",
+    "name": "3단 우산",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 40,
+    "styleTags": [
+      "미니멀"
+    ],
+    "colorTone": "cool",
+    "waterproof": true,
+    "windproof": false,
+    "shape": "umbrella",
+    "color": "#6c8fb3",
+    "imageQuery": "compact umbrella",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-sunglasses",
+    "name": "선글라스",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 20,
+    "maxTemp": 40,
+    "styleTags": [
+      "트렌디",
+      "캐주얼"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sunglasses",
+    "color": "#222222",
+    "imageQuery": "sunglasses",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-cap",
+    "name": "볼캡",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s"
+    ],
+    "minTemp": 18,
+    "maxTemp": 40,
+    "styleTags": [
+      "캐주얼",
+      "스트릿"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "cap",
+    "color": "#2d2d2d",
+    "imageQuery": "baseball cap",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-bucket-hat",
+    "name": "버킷햇",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "20s"
+    ],
+    "minTemp": 18,
+    "maxTemp": 40,
+    "styleTags": [
+      "스트릿",
+      "트렌디"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "bucket",
+    "color": "#c2b08a",
+    "imageQuery": "bucket hat",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-sunhat",
+    "name": "라탄 밀짚모자",
+    "category": "acc",
+    "gender": "female",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": 23,
+    "maxTemp": 40,
+    "styleTags": [
+      "편안함",
+      "트렌디"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": false,
+    "shape": "sunhat",
+    "color": "#d8c08f",
+    "imageQuery": "straw sun hat",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-wool-muffler",
+    "name": "울 머플러",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 6,
+    "styleTags": [
+      "클래식"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "scarf",
+    "color": "#8a7f72",
+    "imageQuery": "wool muffler",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-check-muffler",
+    "name": "체크 머플러",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 8,
+    "styleTags": [
+      "트렌디",
+      "캐주얼"
+    ],
+    "colorTone": "point",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "scarf",
+    "color": "#a94442",
+    "imageQuery": "check scarf",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-cashmere-muffler",
+    "name": "캐시미어 머플러",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 8,
+    "styleTags": [
+      "고급 소재",
+      "클래식"
+    ],
+    "colorTone": "warm",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "scarf",
+    "color": "#c3a07a",
+    "imageQuery": "cashmere scarf",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-beanie",
+    "name": "니트 비니",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "20s",
+      "30s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 8,
+    "styleTags": [
+      "스트릿",
+      "캐주얼"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "beanie",
+    "color": "#444448",
+    "imageQuery": "knit beanie",
+    "imageUrl": null,
+    "credit": null
+  },
+  {
+    "id": "acc-gloves",
+    "name": "가죽 장갑",
+    "category": "acc",
+    "gender": "unisex",
+    "ages": [
+      "30s",
+      "40s",
+      "50s"
+    ],
+    "minTemp": -25,
+    "maxTemp": 5,
+    "styleTags": [
+      "고급 소재",
+      "클래식"
+    ],
+    "colorTone": "neutral",
+    "waterproof": false,
+    "windproof": true,
+    "shape": "gloves",
+    "color": "#3a2a20",
+    "imageQuery": "leather gloves",
+    "imageUrl": null,
+    "credit": null
+  }
+]
